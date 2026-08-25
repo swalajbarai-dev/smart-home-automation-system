@@ -38,9 +38,13 @@ The microcontroller receives input from sensors and/or a mobile IoT platform. Ba
 * Relay-based switching
 * IoT integration
 
-## 📷 Project Images
+## 📷 Project Image
 
-Add photographs of your actual hardware setup and circuit here.
+![Smart Home Automation System](IMG_5127.JPG)
+
+## 🎥 Project Demonstration
+
+[Watch the project demonstration](IMG_5130%20%281%29.mov)
 
 ## 👨‍💻 Skills Demonstrated
 
